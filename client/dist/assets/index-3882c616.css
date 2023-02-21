@@ -1,0 +1,1 @@
+#root,.drink{display:grid}#root{max-width:50rem;margin:1rem auto;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));text-align:center}.drink{gap:.5rem;grid-template-columns:auto 1fr auto;grid-template-rows:auto 1fr;align-items:center;margin-block-end:1rem}.drink img{grid-column:1 / -1;width:100%;height:auto}
